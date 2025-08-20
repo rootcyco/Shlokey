@@ -19,7 +19,7 @@ Ensure you have the following installed on your system:
 ## Setup
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/rootcyco/shlokey.git
+   git clone https://github.com/rootcyco/Shlokey.git
    cd shlokey
    ```
 2. Place the required JSON files (`pali.json` and `brahmi.json`) in the same directory as the script.
@@ -80,4 +80,5 @@ Omega- CyCo
 For any queries, feel free to reach out at https://github.com/rootcyco.
 
 Enjoy using **Shlokey** for secure and interesting text transformations!
+
 
